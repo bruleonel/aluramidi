@@ -8,7 +8,7 @@ Criei este projto atravéz do curso Alura, mas como sou aquariana raiz, lógico 
 Abaixo deixarei anotações importntes, como busco fazer em meus útimo projetos...
 
 ### Aperte o play e Divirta-se! 
-<a href=" https://bruleonel.github.io/aluramidi/">Clique aqui</a>
+<a href="https://bruleonel.github.io/aluramidi/">Clique aqui para ver o código</a>
 
 ## querySelector()
 Usado para selecionar um elemento do HTML(document).
